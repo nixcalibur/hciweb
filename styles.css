@@ -1,0 +1,180 @@
+body {
+    background-color: #000;
+}
+.navbar-text {
+    background-color: #202020;
+}
+.bg-custom {
+    background-color: #202020;
+}
+
+.custom-h1 {
+    font-style: bold;
+    font-weight: 500;
+    color: white;
+    font-size: 380%;
+    padding-top: 4rem;
+    text-align: center;
+}
+.custom-h1-p {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-family: 'Catamaran', sans-serif;
+    font-size: 120%;
+    padding-bottom: 1rem;
+}
+
+.str-bs {
+    padding-top: 4rem;
+    text-align: center;
+}
+
+.str-bs h2 {
+    font-size: 300%;
+    font-weight: bolder;
+    font-family: ;
+}
+.home-el {
+    padding-top: 12rem;
+    padding-bottom: 12rem;
+    height: 50rem;
+}
+
+.about-section {
+    background-color: black;
+    color: white;
+    padding-top: 3rem;
+}
+.about-section h2 {
+    text-align: center;
+    font-size: 280%;
+}
+.abt-dtl {
+    padding-top: 4rem;
+}
+.index {
+    font-size: 140%;
+    font-family: 'oxanium', Oxanium;
+    color: white;
+    padding-bottom: 6rem;
+    text-align: left;
+    font-weight: bold;
+}
+
+.img {
+    padding-bottom: 2rem;
+}
+
+.rounded-oval {
+    border-radius: 20%;
+}
+
+.text-center {
+    color: white;
+    padding-bottom: 20px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+}
+
+.footer-left {
+    float: left;
+}
+
+.footer-right {
+    float: right;
+}
+
+.padding-15px-lr {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.padding-5px-tb {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.margin-10px-bottom {
+    margin-bottom: 10px;
+}
+.border-radius-5 {
+    border-radius: 100px;
+}
+
+.margin-10px-top {
+    margin-top: 10px;
+}
+.font-size14 {
+    font-size: 14px;
+}
+
+.font-size13 {
+    font-size: 13px;
+}
+
+.temp-align {
+    height: 80px;
+}
+
+.table-bordered td, .table-bordered th {
+    border: 2px solid #dee2e6;
+    width: auto;
+}
+.table td, .table th {
+    padding: 10px;
+    vertical-align: middle;
+    border-top: 2px solid #dee2e6;
+}
+
+.divider {
+    width: 100%;
+    height: 3rem;
+}
+
+#myCarousel {
+  margin: auto; 
+}
+
+.outlined-text {
+  color: white;
+  text-shadow: 
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+}
+
+.red-text {
+    color: #b00000;
+}
+
+.blue-text {
+    color: #005fee;
+}
+
+.violet-text {
+    color: #551a8b;
+}
+
+.yellow-text {
+    color: #f2ff00;
+}
+
+.pink-text {
+    color: #e9579e;
+}   
+
+.form-label {
+    color: white;
+}
+
+#hide-header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+  transition: top 0.4s ease-in-out;
+}
+
